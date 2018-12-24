@@ -1,0 +1,812 @@
+[
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:57pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 22 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "168.30"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:32am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "12:41pm", 
+                "departure_airport": "Austin, TX (AUS-Austin-Bergstrom Intl.)", 
+                "departure_time": "11:34am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "7:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "11:42am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:44pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:40pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:11pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:48am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 11 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "169.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "2:29pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 9 minutes", 
+        "plane code": "772", 
+        "plane": "772 - BOEING 777/200", 
+        "departure": ", Miami", 
+        "stops": "Nonstop", 
+        "ticket price": "198.20"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:11pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:48am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:41am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "11:42am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:23pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:44pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 47 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:13pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 33 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Pensacola, FL (PNS-Pensacola Intl.)", 
+                "arrival_time": "10:04am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:15am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "Pensacola, FL (PNS-Pensacola Intl.)", 
+                "departure_time": "1:32pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:29pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "4:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "4:52pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:41pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:29pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "3:36pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "New Orleans, LA (MSY-Louis Armstrong New Orleans Intl.)", 
+                "arrival_time": "9:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "New Orleans, LA (MSY-Louis Armstrong New Orleans Intl.)", 
+                "departure_time": "12:27pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "1:57pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 59 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "10:49am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 44 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "6:41pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:30pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:22pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:27pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 52 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "206.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 9 minutes", 
+        "plane code": "772", 
+        "plane": "772 - BOEING 777/200", 
+        "departure": ", Miami", 
+        "stops": "Nonstop", 
+        "ticket price": "217.20"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:45am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane code": "32B", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure": ", Miami", 
+        "stops": "Nonstop", 
+        "ticket price": "217.20"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:48pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 13 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": ", Miami", 
+        "stops": "Nonstop", 
+        "ticket price": "217.20"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:20pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 8 minutes", 
+        "plane code": "772", 
+        "plane": "772 - BOEING 777/200", 
+        "departure": ", Miami", 
+        "stops": "Nonstop", 
+        "ticket price": "217.20"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "3:57pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "225.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:47pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 2 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "249.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:04pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:03am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:47pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "249.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:10am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "249.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:43pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "6:26pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 43 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "249.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:10am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "1:11pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:48am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane code": "321", 
+        "plane": "Airbus A321", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "249.80"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:41am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "3:36pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 0 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "264.40"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:41am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:29pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 54 minutes", 
+        "plane code": "738", 
+        "plane": "Boeing 737-800", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "264.40"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "10:37pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "5:47am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "264.40"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:42pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "11:31am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 14 hours 49 minutes", 
+        "plane code": "757", 
+        "plane": "Boeing 757", 
+        "departure": ", Miami", 
+        "stops": "1 Stop", 
+        "ticket price": "274.40"
+    }
+]
